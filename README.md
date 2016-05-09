@@ -1,2 +1,2 @@
-# bw-algorithm
+# BW Algorithm
 Implementation of BW Algorithm
